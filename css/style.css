@@ -38,7 +38,7 @@ h3 {
     font-size: 25px;
     text-align: left;
     width: 1080px;
-    height: 1080px;
+    height: 400px;
     float: left;
 }
 
@@ -46,10 +46,10 @@ h3 {
     color:aliceblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 25px;
-    text-align: center;
+    text-align: left;
     width: 200px;
     height: 25px;
-    clear:both;
+    float: left;
 }
 
 #List{
@@ -63,7 +63,8 @@ h3 {
 }
 
 #Contact{
-    float:bottom;
+    clear:both;
+    float:center;
     text-align:center;
     color:aliceblue;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
